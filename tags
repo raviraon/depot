@@ -1,0 +1,122 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ActiveSupport	test/test_helper.rb	/^class ActiveSupport::TestCase$/;"	c
+Ajax.InPlaceCollectionEditor.DefaultOptions.loadingCollectionText	public/javascripts/controls.js	/^Ajax.InPlaceCollectionEditor.DefaultOptions = {$/;"	p
+Ajax.InPlaceEditor	public/javascripts/controls.js	/^});$/;"	c
+Ajax.InPlaceEditor.initialize	public/javascripts/controls.js	/^Ajax.InPlaceEditor.prototype.initialize.dealWithDeprecatedOptions = function(options) {$/;"	m
+Application	config/application.rb	/^  class Application < Rails::Application$/;"	c	class:Depot
+ApplicationController	app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	c
+ApplicationHelper	app/helpers/application_helper.rb	/^module ApplicationHelper$/;"	m
+Autocompleter.Base	public/javascripts/controls.js	/^});$/;"	c
+Autocompleter.Base.getTokenBounds	public/javascripts/controls.js	/^Autocompleter.Base.prototype.getTokenBounds.getFirstDifferencePos = function(newS, oldS) {$/;"	m
+BrowsingTest	test/performance/browsing_test.rb	/^class BrowsingTest < ActionDispatch::PerformanceTest$/;"	c
+CreateProducts	db/migrate/20110815025423_create_products.rb	/^class CreateProducts < ActiveRecord::Migration$/;"	c
+Depot	config/application.rb	/^module Depot$/;"	m
+Draggable	public/javascripts/dragdrop.js	/^var Draggable = Class.create({$/;"	v
+Draggables.drags	public/javascripts/dragdrop.js	/^var Draggables = {$/;"	p
+Droppables.drops	public/javascripts/dragdrop.js	/^var Droppables = {$/;"	p
+Effect.Appear	public/javascripts/effects.js	/^};$/;"	f
+Effect.BlindDown	public/javascripts/effects.js	/^};$/;"	f
+Effect.BlindUp	public/javascripts/effects.js	/^};$/;"	f
+Effect.DropOut	public/javascripts/effects.js	/^};$/;"	f
+Effect.DropOut.oldStyle.top	public/javascripts/effects.js	/^  var oldStyle = {$/;"	p
+Effect.Fade	public/javascripts/effects.js	/^};$/;"	f
+Effect.Fold	public/javascripts/effects.js	/^};$/;"	f
+Effect.Fold.oldStyle.top	public/javascripts/effects.js	/^  var oldStyle = {$/;"	p
+Effect.Grow	public/javascripts/effects.js	/^};$/;"	f
+Effect.Grow.oldStyle.top	public/javascripts/effects.js	/^  var oldStyle = {$/;"	p
+Effect.Methods.highlight	public/javascripts/effects.js	/^  },$/;"	m
+Effect.Methods.morph	public/javascripts/effects.js	/^Effect.Methods = {$/;"	m
+Effect.Methods.visualEffect	public/javascripts/effects.js	/^  },$/;"	m
+Effect.MoveBy	public/javascripts/effects.js	/^});$/;"	f
+Effect.Puff	public/javascripts/effects.js	/^};$/;"	f
+Effect.Puff.oldStyle.opacity	public/javascripts/effects.js	/^  var oldStyle = {$/;"	p
+Effect.Pulsate	public/javascripts/effects.js	/^};$/;"	f
+Effect.Queues.instances	public/javascripts/effects.js	/^Effect.Queues = {$/;"	p
+Effect.ScrollTo	public/javascripts/effects.js	/^});$/;"	f
+Effect.Shake	public/javascripts/effects.js	/^};$/;"	f
+Effect.Shake.oldStyle.top	public/javascripts/effects.js	/^  var oldStyle = {$/;"	p
+Effect.Shrink	public/javascripts/effects.js	/^};$/;"	f
+Effect.Shrink.oldStyle.top	public/javascripts/effects.js	/^  var oldStyle = {$/;"	p
+Effect.SlideDown	public/javascripts/effects.js	/^};$/;"	f
+Effect.SlideUp	public/javascripts/effects.js	/^};$/;"	f
+Effect.Squish	public/javascripts/effects.js	/^};$/;"	f
+Effect.SwitchOff	public/javascripts/effects.js	/^};$/;"	f
+Element.collectTextNodes	public/javascripts/effects.js	/^};$/;"	f
+Element.collectTextNodesIgnoreClass	public/javascripts/effects.js	/^};$/;"	f
+Element.findChildren	public/javascripts/dragdrop.js	/^};$/;"	f
+Element.forceRerendering	public/javascripts/effects.js	/^};$/;"	f
+Element.getInlineOpacity	public/javascripts/effects.js	/^};$/;"	f
+Element.getStyles	public/javascripts/effects.js	/^if (document.defaultView && document.defaultView.getComputedStyle) {$/;"	f
+Element.isParent	public/javascripts/dragdrop.js	/^};$/;"	f
+Element.offsetSize	public/javascripts/dragdrop.js	/^};$/;"	f
+Element.setContentZoom	public/javascripts/effects.js	/^};$/;"	f
+Field.scrollFreeActivate	public/javascripts/controls.js	/^});$/;"	f
+Product	app/models/product.rb	/^class Product < ActiveRecord::Base$/;"	c
+ProductTest	test/unit/product_test.rb	/^class ProductTest < ActiveSupport::TestCase$/;"	c
+ProductsController	app/controllers/products_controller.rb	/^class ProductsController < ApplicationController$/;"	c
+ProductsControllerTest	test/functional/products_controller_test.rb	/^class ProductsControllerTest < ActionController::TestCase$/;"	c
+ProductsHelper	app/helpers/products_helper.rb	/^module ProductsHelper$/;"	m
+ProductsHelperTest	test/unit/helpers/products_helper_test.rb	/^class ProductsHelperTest < ActionView::TestCase$/;"	c
+Prototype.Browser	public/javascripts/prototype.js	/^  Version: '1.7_rc2',$/;"	p
+Prototype.Version	public/javascripts/prototype.js	/^var Prototype = {$/;"	p
+Sortable.SERIALIZE_RULE	public/javascripts/dragdrop.js	/^var Sortable = {$/;"	p
+SortableObserver	public/javascripts/dragdrop.js	/^var SortableObserver = Class.create({$/;"	v
+Str	public/javascripts/prototype.js	/^  function Str(key, holder, stack) {$/;"	f
+String	public/javascripts/effects.js	/^\/\/ script.aculo.us effects.js v1.8.3, Thu Oct 08 11:23:33 +0200 2009$/;"	c
+String.parseColor	public/javascripts/effects.js	/^String.prototype.parseColor = function() {$/;"	m
+String.parseStyle	public/javascripts/effects.js	/^String.prototype.parseStyle = function(){$/;"	m
+Try.these	public/javascripts/prototype.js	/^var Try = {$/;"	m
+Type	public/javascripts/prototype.js	/^  function Type(o) {$/;"	f
+about	public/index.html	/^      function about() {$/;"	f
+child.id	public/javascripts/dragdrop.js	/^      var child = {$/;"	p
+clone	public/javascripts/prototype.js	/^  function clone(object) {$/;"	f
+create	app/controllers/products_controller.rb	/^  def create$/;"	f	class:ProductsController
+destroy	app/controllers/products_controller.rb	/^  def destroy$/;"	f	class:ProductsController
+down	db/migrate/20110815025423_create_products.rb	/^  def self.down$/;"	F	class:CreateProducts
+drop	public/javascripts/dragdrop.js	/^    var drop, affected = [];$/;"	v
+droponOptions	public/javascripts/dragdrop.js	/^    var droponOptions = Sortable.options(dropon);$/;"	v
+edit	app/controllers/products_controller.rb	/^  def edit$/;"	f	class:ProductsController
+extend	public/javascripts/prototype.js	/^  function extend(destination, source) {$/;"	f
+function.handleMethod	public/javascripts/rails.js	/^  function handleMethod(element) {$/;"	f
+function.handleRemote	public/javascripts/rails.js	/^  function handleRemote(element) {$/;"	f
+index	app/controllers/products_controller.rb	/^  def index$/;"	f	class:ProductsController
+inspect	public/javascripts/prototype.js	/^  function inspect(object) {$/;"	f
+isArray	public/javascripts/prototype.js	/^  function isArray(object) {$/;"	f
+isElement	public/javascripts/prototype.js	/^  function isElement(object) {$/;"	f
+isForm.isInput.Event.Handler	public/javascripts/rails.js	/^  if (!submitBubbles || !changeBubbles) {$/;"	c
+isForm.isInput.isForm.isInput.Event.Handler.initialize	public/javascripts/rails.js	/^    Event.Handler.prototype.initialize = Event.Handler.prototype.initialize.wrap($/;"	m
+isFunction	public/javascripts/prototype.js	/^  function isFunction(object) {$/;"	f
+isHash	public/javascripts/prototype.js	/^  function isHash(object) {$/;"	f
+isNumber	public/javascripts/prototype.js	/^  function isNumber(object) {$/;"	f
+isString	public/javascripts/prototype.js	/^  function isString(object) {$/;"	f
+isUndefined	public/javascripts/prototype.js	/^  function isUndefined(object) {$/;"	f
+keys	public/javascripts/prototype.js	/^  function keys(object) {$/;"	f
+masterDelay	public/javascripts/effects.js	/^    var masterDelay = options.delay;$/;"	v
+name	public/javascripts/dragdrop.js	/^    var name = encodeURIComponent($/;"	v
+new	app/controllers/products_controller.rb	/^  def new$/;"	f	class:ProductsController
+offsets	public/javascripts/dragdrop.js	/^    var offsets = dropon.cumulativeOffset();$/;"	v
+options_for_draggable.quiet	public/javascripts/dragdrop.js	/^      revert:      true,$/;"	p
+options_for_draggable.revert	public/javascripts/dragdrop.js	/^    var options_for_draggable = {$/;"	p
+options_for_droppable.overlap	public/javascripts/dragdrop.js	/^    var options_for_droppable = {$/;"	p
+options_for_tree.onHover	public/javascripts/dragdrop.js	/^    var options_for_tree = {$/;"	p
+partial	public/javascripts/prototype.js	/^        var partial = [];$/;"	v
+pointer	public/javascripts/dragdrop.js	/^    var pointer = [Event.pointerX(event), Event.pointerY(event)];$/;"	v
+root.children	public/javascripts/dragdrop.js	/^      parent: null,$/;"	p
+root.id	public/javascripts/dragdrop.js	/^    var root = {$/;"	p
+root.parent	public/javascripts/dragdrop.js	/^      id: null,$/;"	p
+s	public/javascripts/dragdrop.js	/^    var s = Sortable.sortables[element.id];$/;"	v
+show	app/controllers/products_controller.rb	/^  def show$/;"	f	class:ProductsController
+stringify	public/javascripts/prototype.js	/^  function stringify(object) {$/;"	f
+test_homepage	test/performance/browsing_test.rb	/^  def test_homepage$/;"	f	class:BrowsingTest
+toHTML	public/javascripts/prototype.js	/^  function toHTML(object) {$/;"	f
+toJSON	public/javascripts/prototype.js	/^  function toJSON(value) {$/;"	f
+toQueryString	public/javascripts/prototype.js	/^  function toQueryString(object) {$/;"	f
+up	db/migrate/20110815025423_create_products.rb	/^  def self.up$/;"	F	class:CreateProducts
+update	app/controllers/products_controller.rb	/^  def update$/;"	f	class:ProductsController
+values	public/javascripts/prototype.js	/^  function values(object) {$/;"	f
+var.Effect._elementDoesNotExistError	public/javascripts/effects.js	/^var Effect = {$/;"	p
